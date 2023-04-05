@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firzu1981
-- 👀 I’m interested in React, VUE or Angular i don't decide yet
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in React, Java
+- 🌱 I’m currently learning Spring Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pawel.fijalkowski@gmail.com
 
